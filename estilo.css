@@ -1,0 +1,135 @@
+.acordeon{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+.menu_paginas{
+    margin: auto;
+    padding: 10px;
+     background-color: rgb(8, 41, 87);
+}
+
+.inicio_tarjeta{
+    width: 80%;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+}
+.card-img-top{
+    width: auto;
+    height: 500px;
+}
+section{
+padding: 50PX;
+height: auto;
+margin: auto;
+
+ background-color: rgb(8, 41, 87);
+ color: #f0f9fd;
+
+}
+h2{
+    text-align: center;
+    margin: auto;
+     color: #f0f9fd;
+    font-size: 55px;
+}
+header{
+    text-align: center;
+    background-image: url(https://img.freepik.com/fotos-premium/fondo-abstracto-futurista-luces-neon-diseno-digital-innovacion-tecnologica_1141047-5370.jpg);
+    
+    padding: 50PX;
+    height: 300PX;
+
+}
+td{
+    width: 20%;
+    padding: 10px;
+  border: 2px solid  #f0f9fd;
+}
+th{
+    margin: auto;
+     width: 20%;
+      padding: 10px;
+    border: 2px solid  #f0f9fd;
+    background-color: #f0f9fd;
+    color: #0e1636;
+}
+
+.section_otro{
+  background-image: url(https://img.freepik.com/fotos-premium/fondo-abstracto-futurista-luces-neon-diseno-digital-innovacion-tecnologica_1141047-5370.jpg);
+    padding: 50PX;
+    color: #f0f9fd;
+    margin: 0;
+}
+
+H1{
+    font-size: 80PX;
+    text-align: center;
+    color: #f0f9fd;
+}
+
+#carouselExample{
+background: #f0f9fd;
+height: 300px;
+text-align: center;
+color:#0d2d5e;
+padding: 50px;
+width: 80%;
+margin: auto;
+}
+
+.index_section{
+       background-color: #f0f9fd ;
+    color:#0d2d5e;
+} 
+#img_spo{
+    width:auto ;
+   height:  50px;
+}
+#footer{
+    background-color:#0d2d5e ;
+    color:  #f0f9fd;
+   margin: auto;
+}
+
+
+
+.hcinco{
+    font-size: 40px;
+}
+
+
+.contenedor{
+    display: grid;
+    grid-template-areas:
+    "contenido contenido";
+   gap: 10px;
+}
+.img_princ{
+    height: auto;
+    width: 100%;
+}
+.contenedor{
+    display: grid;
+    grid-template-areas:  
+    "tabla tabla"
+    "tabla tabla" ;
+    
+
+
+}
+body{
+    margin: 0;
+font-style: italic;
+}
+.over{
+    background-color: #f0f9fd;
+    overflow: scroll;
+    height: 800px;
+width: 90%;
+color: #0d2d5e;
+text-align: center;
+margin: auto;
+
+}
